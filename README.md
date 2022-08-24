@@ -1,7 +1,6 @@
 ### I'm Mohamed Mady, Welcome to my profile 👋
 
-- 🔭 I’m currently working on Chat Bot Project
-- 🌱 I’m currently learning Artificial Intelligence and Data Science
-- 💬 Ask me about Mathematics, Statistics, Data Science or Artificial Intelligence
-- 📫 How to reach me: Mohammed_Mady19@yahoo.com
-- ⚡ Fun fact: I have the black belt in Karate
+- 👨‍💻 I’m currently a Master of Engineering (Artificial Intelligence for Smart Sensors and Actuators) Student in Germany.
+- 👨‍🎓 I have a bachelor's degree in Electronics and Communications Engineering.
+- 🤠 I’m enthusiastic about Python, Data Analysis, Machine Learning, Deep Learning, Artificial Intelligence, and Data Science.
+- 💬 Mohammed_Mady19@yahoo.com | https://www.linkedin.com/in/mohamedmady19/
