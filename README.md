@@ -6,4 +6,4 @@
 - 👨‍🎓 Master of Science "Data Science" @ Cairo University, Egypt
 - 👨‍🎓 Bachelor of Engineering "Electronics and Communications Engineering" @ Masoura University, Egypt
 - 🤠 I’m enthusiastic about Python, Data Analysis, Machine Learning, Deep Learning, R, SQL, and Matlab
-- 💬 Mohammed_Mady19@yahoo.com | https://www.linkedin.com/in/mohamedmady19/
+- 💬 Mohammed_Mady19@yahoo.com | https://www.linkedin.com/in/mohamedmady19/ | https://leetcode.com/Mohammed_Mady/ | https://www.kaggle.com/mohamedhamdymady
