@@ -1,6 +1,6 @@
 ### I'm Mohamed Mady, Welcome to my profile 👋
 
-- 👨‍💻 AI Master Student @ BMW
+- 👨‍💻 AI Master Thesis Student @ BMW
 - 👨‍💻 Data Science Intern @ Boehringer Ingelheim
 - 👨‍🎓 Master of Engineering "Artificial Intelligence for Smart Sensors and Actuators" @ Technische Hochschule Deggendorf, Germany
 - 👨‍🎓 Master of Science "Data Science" @ Cairo University, Egypt
