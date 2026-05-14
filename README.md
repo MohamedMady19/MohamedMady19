@@ -18,8 +18,8 @@ I build **production automation systems** for photonics and semiconductor manufa
 
 ### 🎓 Education
 - **Ph.D. Candidate** – AI & Multimodal Content Authenticity (TUM & OTH Regensburg, since 01/2025)
-- **M.Eng. AI for Smart Sensors & Actuators** – Technische Hochschule Deggendorf (2024, grade 2.4)
-- **B.Eng. Electronics & Communications** – Mansoura University (2022, grade 75%)
+- **M.Eng. AI for Smart Sensors & Actuators** – Technische Hochschule Deggendorf (2024)
+- **B.Eng. Electronics & Communications** – Mansoura University (2022)
 
 ### 🛠️ Tech Stack
 **Languages**: Python • R • SQL • MATLAB  
@@ -33,7 +33,6 @@ I build **production automation systems** for photonics and semiconductor manufa
 ### 📬 Let's connect
 - **Email**: Mohamed.Mady@gmx.de
 - **LinkedIn**: [linkedin.com/in/mohamedmady19](https://www.linkedin.com/in/mohamedmady19/)
-- **Kaggle** • **LeetCode** • Full CV → [Download PDF](https://github.com/MohamedMady19/MohamedMady19/blob/main/Mohamed_Mady_CV.pdf) *(upload your CV here!)*
 
 ---
 
