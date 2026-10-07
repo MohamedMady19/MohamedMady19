@@ -42,6 +42,24 @@ Attack-aware, deployment-realistic detection of AI-generated text. Official RAID
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[AI-Generated-Text-Detector](https://github.com/MohamedMady19/AI-Generated-Text-Detector)**<br>
+<sub>open-source tool</sub>
+
+Extracts 119+ linguistic and topological features (lexical diversity, syntax, readability, discourse, persistent-homology dimension) from text, to study and classify human versus AI-generated writing. GUI and command line, files up to 1 GB.
+
+</td>
+<td width="50%" valign="top">
+
+**[PhD exposé](https://github.com/MohamedMady19/ai-content-detection-expose)**<br>
+<sub>Multimodal detection and analysis of AI-generated content</sub>
+
+The research plan behind this work: robust and interpretable detection of AI-generated text and images, with explainable AI for the people who rely on the decisions.
+
+</td>
+</tr>
 </table>
 
 ### Publications
